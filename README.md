@@ -1,1 +1,3 @@
-# knowledge-base
+# Knowledge Base
+
+- [Glossary](/glossary.md)
